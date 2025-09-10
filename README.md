@@ -333,7 +333,7 @@ Open `styles.css` and complete each TODO.
 
 1. Save `index.html` and `styles.css`.  
 2. Open in your browser.  
-3. Verify each section updates as you complete TODs.  
+3. Verify each section updates as you complete TODOs.  
 4. Hover buttons/links to test interactive styles.
 
 ## Expected Results
